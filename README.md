@@ -15,7 +15,7 @@ update, delete or modify any existing record or make a new entry (books and memb
 They can browse through the categories, search for a particular book, return and issue a
 book. They are also provided with an email option in case of a query.
 
-**----------------------------------------------------------------------x----------------------------------------------------------------------**
+**--------------------------------------------------------------x---------------------------------------------------------**
 ## Task -> 2
 
 ### ONLINE EXAMINATION
@@ -28,7 +28,7 @@ Selecting answers for MCQs
 Timer and auto submit
 Closing session and Logout
 
-**----------------------------------------------------------------------x----------------------------------------------------------------------**
+**-----------------------------------------------------------x------------------------------------------------------------**
 ## Task 3 ->
 ### ATM INTERFACE
 
